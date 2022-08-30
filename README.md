@@ -1,2 +1,2 @@
-My first readme
-cos am awesome
+Go on, readme..
+cos am Awesome!
